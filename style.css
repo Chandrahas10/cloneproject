@@ -4,7 +4,7 @@
     border: border-box;
 }
 .navbar {
-    height: 60px;
+    height: 60rem; /* changes for github cheking*/
     background-color: #121920;
     color: #fff;
     display: flex;
